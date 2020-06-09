@@ -1,0 +1,58 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.2560.1440" x="891" y="206" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="583" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="959" y="563" />
+    <location key="#Project_Structure.0.0.2560.1440" x="880" y="396" />
+    <location key="SettingsEditor.0.0.2560.1440" x="774" y="381" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2560.1440" x="1059" y="471" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.2560.1440" x="992" y="632" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2560.1440" x="1130" y="628" />
+    <location key="#Code_Folding.0.0.2560.1440" x="880" y="397" />
+    <location key="run.anything.popup.0.0.2880.1800@192dpi" x="770" y="422" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="404" y="222" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="0" y="23" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.2880.1800@192dpi" x="1116" y="646" />
+    <location key="search.everywhere.popup.0.0.2880.1800@192dpi" x="770" y="426" />
+    <location key="VcsDiffUtil.ChangesDialog.0.0.2880.1800@192dpi" x="946" y="428" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.2560.1440" x="968" y="474" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="782" y="284" />
+    <location key="#Project_Structure.0.0.2880.1800@192dpi" x="640" y="254" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="368" y="246" />
+    <location key="StructurePopup.0.0.2560.1440" x="1015" y="470" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="230" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="230" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="230" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="230" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2796" height="856" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2796" height="856" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2796" height="856" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2796" height="856" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="2560" height="1417" />
+    <size key="SettingsEditor.0.0.2880.1800@192dpi" width="2476" height="1402" />
+    <size key="search.everywhere.popup.0.0.2880.1800@192dpi" width="1340" height="1352" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1316" height="1278" />
+    <size key="StructurePopup.0.0.2560.1440" width="540" height="524" />
+    <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="3756" height="610" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2160@192dpi" width="3756" height="610" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2160@192dpi" width="3756" height="610" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2160@192dpi" width="3756" height="610" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="23" width="1440" height="877" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</application>

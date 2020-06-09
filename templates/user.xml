@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="test" value="public void test$1$() {&#10;    $END$&#10;}" description="generate empty test case" toReformat="true" toShortenFQNames="false">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,91 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/ab-moonshot">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aKUws19DinIkawTexFaWwqTMIJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432164217" />
+              <frame x="0" y="23" width="2560" height="1417" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586665628824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/armored-transport">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aKZ8wwooNMMK80wmaOA9AqWIJe">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432164217" />
+              <frame x="0" y="23" width="2560" height="1417" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586666815886" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/aft/ab-moonshot">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aKUws19DinIkawTexFaWwqTMIJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432143058" />
+              <frame x="839" y="381" width="1792" height="1119" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586808211876" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/aft/armored-transport">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aKZ8wwooNMMK80wmaOA9AqWIJe">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432143058" />
+              <frame x="665" y="253" width="1792" height="1119" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586808218802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/aft/moonshot-api">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aQQsI4UXBckbw1d58aaRduRk19">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432143058" />
+              <frame x="375" y="193" width="1792" height="1119" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586808227120" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rpi">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1aEH8et9Xse7X3JBYxsqafmdVQz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6911.18" />
+              <option name="buildTimestamp" value="1584432173906" />
+              <frame x="0" y="23" width="1440" height="877" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586989136606" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace/aft" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/rpi" />
+        <option value="$USER_HOME$/workspace/aft/moonshot-api" />
+        <option value="$USER_HOME$/workspace/aft/armored-transport" />
+        <option value="$USER_HOME$/workspace/aft/ab-moonshot" />
+        <option value="$USER_HOME$/workspace/armored-transport" />
+        <option value="$USER_HOME$/workspace/ab-moonshot" />
+      </list>
+    </option>
+  </component>
+</application>
